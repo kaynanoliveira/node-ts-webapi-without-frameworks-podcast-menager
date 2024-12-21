@@ -83,15 +83,17 @@ project-root/
 ## Como executar o projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/podcast-manager.git
+   git clone https://github.com/kaynanoliveira/node-ts-webapi-without-frameworks-podcast-menager.git
    ```
 2. Instale as dependências:
    ```bash
-   npm install
+   npm install typescript
+   npm install tsup
+   npm install tsx
    ```
 3. Execute o projeto:
    ```bash
-   npm start
+   npm start:dev
    ```
 4. Acesse a API via [http://localhost:3000](http://localhost:3000).
 
